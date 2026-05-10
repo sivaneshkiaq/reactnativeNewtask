@@ -56,7 +56,7 @@ const About = () => {
         <Text style={styles.description}>
           Lorem ipsum viverra feugiat. Pellen tesque libero ut justo, ultrices
           in ligula. Semper at tempufddfel. Lorem ipsum dolor sit amet elit. Non
-          quae, fugiat nihil ad. Lorem ipsum dolor sit amet.
+          quae, fugiat nihil ad. Lorem ipsum dolor sit back.
         </Text>
       </View>
 
