@@ -6,12 +6,10 @@ module.exports = function (api) {
       [
         "module-resolver",
         {
-          alias: {
-            "@components": "./src/features/components",
-            "@Screens": "./src/features/Screens",
-            "@assets": "./assets",
+          root:['./'],
+          alias:'./',
           },
-        },
+      
       ],
     ],
   };
